@@ -1,5 +1,4 @@
-# Kman-policy
-Privacy Policy for Kaman
+# Privacy Policy for Kaman
 Last Updated: [Insert Date]
 At Kaman ("we," "our," or "us"), we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy outlines how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App"). By accessing or using the App, you agree to the terms of this Privacy Policy. If you do not agree with these terms, please refrain from using the App.
 
@@ -56,3 +55,4 @@ We reserve the right to update or modify this Privacy Policy at any time. Any ch
 Contact Us
 If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
 * Email: contact@karmelplus.com
+* Website:https://test.kaman.rest/
